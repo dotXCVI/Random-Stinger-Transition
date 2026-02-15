@@ -12,7 +12,7 @@ The established option for this (https://github.com/FineWolf/obs-scripts/tree/ma
 
 ## Installation
 
-1. Download `RandomStingerCustom.lua`
+1. Download `RandomStingerCustom.lua` (Right click <a href="https://github.com/dotXCVI/OBS-Random-Stinger-Transition/blob/main/RandomStingerCustom.lua" rel="nofollow">this link</a> → Save Link As...)
 2. In OBS Studio, go to **Tools → Scripts**
 3. Click the **+** button and select the script file
 4. Configure the settings (see below)
