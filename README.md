@@ -1,4 +1,4 @@
-# OBS Random Stinger Transition Script
+# Random Stinger Transition Script
 
 A Lua script for OBS Studio that automatically randomizes stinger transition videos with intelligent rotation and per-video transition point support.
 
