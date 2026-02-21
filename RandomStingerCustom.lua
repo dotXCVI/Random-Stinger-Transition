@@ -294,6 +294,11 @@ function update_stinger_delayed()
 end
 
 function script_load(settings)
+    -- Seed the random number generator with current time
+    math.randomseed(os.time())
+    -- Additional randomization to avoid patterns
+    math.random(); math.random(); math.random()
+    
     obs.obs_frontend_add_event_callback(frontend_event)
     obs.script_log(obs.LOG_INFO, "Random Stinger script loaded")
     
